@@ -98,6 +98,4 @@ If you want to see your card on your machine before you push, you can run the pr
     npm run dev
 
 3.  Open http://localhost:3000 in your browser to see the result.
-
-
-helooooo i updated it 
+hello i am updating readme
