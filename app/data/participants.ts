@@ -16,8 +16,8 @@ export type Participant = {
 // TODO: Participants will add their details to this array!
 export const participants: Participant[] = [
     {
-        name: "Yashaswi Bhardwaj",
-        github: "Yashb404",
+        name: "Aditya",
+        github: "Aditya6743",
         bio: "Workshop speaker from GDG",
     },
   // Add your object below this line, following the same format.
